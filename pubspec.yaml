@@ -1,7 +1,7 @@
 name: screenshot_prevention
 description: A Flutter plugin to prevent screenshots on specific screens.
-version: 0.0.1
-homepage: https://github.com/yourusername/screenshot_prevention
+version: 0.0.2
+repository: https://github.com/innovationmauritiustelecom/screenshot_prevention
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
