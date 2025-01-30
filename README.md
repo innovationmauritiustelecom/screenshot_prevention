@@ -1,5 +1,3 @@
-Here’s the properly formatted `README.md` file for your Flutter plugin. You can directly copy and paste this into your project:
-
 ````markdown
 # Screenshot Prevention Plugin
 
